@@ -3,7 +3,8 @@
 
 # 模型種類
 我們現在只支援以下模型免費使用
-
-claude-2
+```
+claude-2 /n
 gpt-3.5-turbo-1106
 gemini-pro-vision
+```
