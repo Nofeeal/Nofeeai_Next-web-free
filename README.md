@@ -4,7 +4,7 @@
 # 模型種類
 我們現在只支援以下模型免費使用
 ```
-claude-2 /n
-gpt-3.5-turbo-1106
+claude-2 (100K)
+gpt-3.5-turbo-1106 (16K)
 gemini-pro-vision
 ```
