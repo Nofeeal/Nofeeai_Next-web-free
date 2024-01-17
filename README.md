@@ -19,7 +19,6 @@ WebBrowser(聯網功能):
 *****
 wolframalpha(數學插件):
 ![Nofeeai wolframalpha](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/wolframalphaIMG.png)
-
 *****
 WiKi(維基插件):
 ![Nofeeai wiki](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/wiki-img.png)
