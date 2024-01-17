@@ -1,6 +1,5 @@
 # Nofeeai_Next-web-free
-這是一個基於Chatgpt-next-web 開源的LLM合集，並且這個合集免費的，只供給個人使用不得用於商業目的
-除插件工具外，與原始專案保持一致 ChatGPT-Next-Web 主要功能
+這是一個基於ChatGPT-Next-Web開源專案的LLM合集，並且完全免費。然而，請注意，這個合集僅供個人使用，並且不得用於商業目的。除了插件工具外，這個合集與原始的ChatGPT-Next-Web專案保持一致。
 
 
 
