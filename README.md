@@ -18,3 +18,4 @@ WebBrowser(聯網功能):
 ![Nofeeai Image](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/WEB-GPT.png)
 *****
 wolframalpha(數學插件):
+![Nofeeai wolframalpha](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/wolframalphaIMG.png)
