@@ -15,5 +15,6 @@ gemini-pro-vision
 # 實用功能插件
 
 WebBrowser(聯網功能):
+![Nofeeai Image](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/WEB-GPT.png)
 *****
 wolframalpha(數學插件):
