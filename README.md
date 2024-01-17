@@ -23,3 +23,8 @@ wolframalpha(數學插件):
 WiKi(維基插件):
 ![Nofeeai wi](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/wiki-img.png)
 
+# 使用限制
+由於插件的使用量事透過api生成的，故此使用量是有限的，請各位珍惜使用，如果限額超過請聯繫我們
+
+# 未來計劃(稍後公佈)
+
