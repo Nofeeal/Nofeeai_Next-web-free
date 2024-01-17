@@ -22,4 +22,5 @@ wolframalpha(數學插件):
 
 *****
 WiKi(維基插件)
+![Nofeeai wiki](https://github.com/Nofeeal/Nofeeai_Next-web-free/blob/main/IMG/wiki-img.png)
 
